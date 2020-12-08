@@ -14,9 +14,9 @@ services: docker
 
 env:
   global:
-    - DOCKERHUB_USERNAME=willdockerhub
-#    - ALI_USERNAME=willzhmic@outlook.com
-#    - ALI_REGISTRY_URL=registry.cn-shenzhen.aliyuncs.com
+    - DOCKERHUB_USERNAME=satangelsx
+#    - ALI_USERNAME=
+#    - ALI_REGISTRY_URL=registry.cn-hangzhou.aliyuncs.com
 #    - ALI_REGISTRY_NAMESPACE=images_mirror
 
 before_script:
